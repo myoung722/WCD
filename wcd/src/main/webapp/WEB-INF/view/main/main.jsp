@@ -8,6 +8,6 @@
 
 <div class="body-container" style="width: 700px;">
     <div>
-        메인 화면 입니다.
+        유선이입니당.
     </div>
 </div>

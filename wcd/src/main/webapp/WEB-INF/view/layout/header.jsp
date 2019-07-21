@@ -9,7 +9,7 @@
     <div class="header-left">
         <p style="margin: 2px;">
             <a href="<%=cp%>/" style="text-decoration: none;">
-                <span style="width: 200px; height: 70; position: relative; left: 0; top:20px; color: #2984ff; filter: mask(color=red) shadow(direction=135) chroma(color=red);font-style: italic; font-family: arial black; font-size: 30px; font-weight: bold;">SPRING</span>
+                <span style="width: 200px; height: 70; position: relative; left: 0; top:20px; color: #2984ff; filter: mask(color=red) shadow(direction=135) chroma(color=red);font-style: italic; font-family: arial black; font-size: 30px; font-weight: bold;">SUMMER</span>
             </a>
         </p>
     </div>
